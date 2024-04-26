@@ -36,7 +36,6 @@ Proficient in SQL, Tableau, Power BI, and Advanced Spreadsheets. Experienced in 
 
  </div>
 
-<br/>
 
 <div align="left">
     <h2 align="left">💻 Skills 💻</h2>
