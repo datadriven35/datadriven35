@@ -36,11 +36,6 @@ Proficient in SQL, Tableau, Power BI, and Advanced Spreadsheets. Experienced in 
 
  </div>
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=mysql,,excel" /><br>
-</div>
-
 <br/>
 
 <div align="left">
