@@ -16,11 +16,11 @@
 </div>
 
 <br> 
-Passionate and results-driven Data Analyst with a keen interest in leveraging data to drive insightful decisions. Eager to contribute to a dynamic team in a company fostering innovation and growth. I thrive on collaboration and am unafraid to explore new avenues to find solutions.
+<p>Passionate and results-driven Data Analyst with a keen interest in leveraging data to drive insightful decisions. Eager to contribute to a dynamic team in a company fostering innovation and growth. I thrive on collaboration and am unafraid to explore new avenues to find solutions. Proficient in SQL, Tableau, Power BI, and Advanced Spreadsheets. Experienced in Business Analytics with a solid foundation in MS Office Suite.
+</p>
 
-Proficient in SQL, Tableau, Power BI, and Advanced Spreadsheets. Experienced in Business Analytics with a solid foundation in MS Office Suite.
 
-🎨 Creative by nature, I've always been intrigued by the pursuit of answers and the journey of problem-solving throughout life. <br>
+<p>🎨 Creative by nature, I've always been intrigued by the pursuit of answers and the journey of problem-solving throughout life. </p>
 
 <br> 
 
