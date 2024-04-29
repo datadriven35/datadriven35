@@ -49,4 +49,3 @@
 <h2 align="left">📊 GitHub Stats 📊</h2>
 
 ![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=datadriven35&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datadriven35&show_icons=true&theme=radical)
